@@ -7,4 +7,4 @@
 ✍️ Documenting my tech journey on [my blog]([your-medium-link](https://medium.com/@dhiti))<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-(https://github-readme-stats.vercel.app/api?username=gitdhiti&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=gitdhiti&show_icons=true&theme=transparent)<br/>
