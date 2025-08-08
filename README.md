@@ -1,7 +1,7 @@
 <!-- bio -->
 # 👋 Hi, I'm Dhiti!
 💻 Full Stack Web Developer<br/>
-🎓 B.Tech Mechanical Eng. & Robotics + AI Minor, RTMNU<br/>
+🎓 B.Tech Mechanical Eng. & Robotics + AI Minor, RTMNU, India<br/>
 🎥 Video editor & Graphic Designer at [WTM Nagpur](https://www.instagram.com/wtmnagpur/reels/), led [tech event](your-comuddle-link)<br/>
 🤝 Helped [underprivileged children](https://www.instagram.com/makeadiffindia/) and organizing [community events](https://www.instagram.com/nagpuranimeclub/)<br/>
 ✍️ Documenting my tech journey on [my blog]([your-medium-link](https://medium.com/@dhiti))<br/>
