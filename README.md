@@ -3,7 +3,7 @@
 ⋆ ☾ welcome ⸱ to ⸱ my ⸱ homepage ☽ ⋆
 <p align="left">
   <a href="./mechanical">
-    <img src="https://github.com/gitdhiti/gitdhiti/blob/main/mechanical.gif" width="250">
+    <img src="mechanical.gif" width="250">
   </a>
   <a href="./digital">
     <img src="https://github.com/gitdhiti/gitdhiti/blob/main/digital.gif" width="250">
