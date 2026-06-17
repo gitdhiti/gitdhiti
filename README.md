@@ -3,12 +3,12 @@
 ⋆ ☾ welcome ⸱ to ⸱ my ⸱ homepage ☽ ⋆
 <p align="left">
   <a href="./mechanical">
-    <img src="https://github.com/gitdhiti/gitdhiti/blob/c04403a0ed196b3e55fec70c9a636ac0101e2bd7/mechanical.gif" width="250">
+    <img src="https://github.com/gitdhiti/gitdhiti/blob/3d38a90822b4edf10f6beb30a43ba5f363ff7d0e/mechanical.gif" width="250">
   </a>
   <a href="./digital">
-    <img src="https://github.com/gitdhiti/gitdhiti/blob/main/digital.gif" width="250">
+    <img src="https://github.com/gitdhiti/gitdhiti/blob/00a1aa7474d29473c9668fbe5fd56669c4b2274b/digital.gif.gif" width="250">
   </a>
   <a href="./creative">
-    <img src="https://github.com/gitdhiti/gitdhiti/blob/main/creative.gif" width="250">
+    <img src="https://github.com/gitdhiti/gitdhiti/blob/d598aa58d216ab6fa07139c0aecb6650a8a6fc18/creative.gif" width="250">
   </a>
 </p>
