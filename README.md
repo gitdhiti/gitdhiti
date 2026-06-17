@@ -2,7 +2,7 @@
 
 ⋆ ☾ welcome ⸱ to ⸱ my ⸱ homepage ☽ ⋆
 <p align="left">
-  <a href="./mechanical">
+  <a href="https://github.com/gitdhiti/Mechanical-Portfolio">
     <img src="https://github.com/gitdhiti/gitdhiti/blob/3d38a90822b4edf10f6beb30a43ba5f363ff7d0e/mechanical.gif" width="250">
   </a>
   <a href="./digital">
